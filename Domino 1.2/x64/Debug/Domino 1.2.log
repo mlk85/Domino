@@ -1,0 +1,11 @@
+﻿  klasy.cpp
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(59,51): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(69,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(101,50): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(131,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(320,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(508,6): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+  main.cpp
+  Generowanie kodu...
+C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\Domino 1.2\klasy.cpp(242,1): warning C4715: "Game::pickSide”: niewszystkie ścieżki kodu zwracają wartość
+  Domino 1.2.vcxproj -> C:\Users\user\Desktop\Studia\II semestr\Domino\Domino 1.2\x64\Debug\Domino 1.2.exe
